@@ -1,0 +1,23 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {section}{\numberline {1}Introduzione}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Il Reverse Engineering}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Reverse Engineering Process Work}{3}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Perché è importante il Reverse Engineering}{4}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Reverse Engineering mobile OWASP}{4}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Tecniche di Reverse Engineering}{5}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Basic Tampering Techniques}{6}{subsubsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}Difesa dal Reverse Engineering}{6}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Reverse Engineering di InsecureShop}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Avvio Emulatore e recupero prime informazioni App}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Estrazione Codice Sorgente}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Prima Analisi del Codice Estratto}{12}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Seconda Analisi del Codice}{14}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Reverse Engineering di UnCrackable1}{16}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Avvio Emulatore e recupero prime informazioni App}{16}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Estrazione Codice Sorgente}{18}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Analisi del Codice Estratto}{18}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Disabilitare Sistema Anti-Rooted}{19}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Ricerca Frase Segreta}{23}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Creazione Device Rooted on Android Studio e Build Apk modificato}{27}{subsubsection.3.3.3}%
+\contentsline {section}{\numberline {4}Conclusioni}{31}{section.4}%
